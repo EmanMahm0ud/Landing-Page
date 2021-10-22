@@ -96,7 +96,7 @@ section {
     cursor: pointer;
 }
 
-.active {
+.navbar__menu .active {
     background-color: #666;
     border-radius: 3px;
 }
